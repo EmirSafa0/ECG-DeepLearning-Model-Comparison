@@ -1,0 +1,16 @@
+{
+    "fold": 2,
+    "epochs_ran": 50,
+    "val_accuracy": 0.8765432098765432,
+    "val_f1_macro": 0.8322055038080833,
+    "val_kappa": 0.8012269938650307,
+    "test_accuracy": 0.9130434782608695,
+    "test_f1_macro": 0.869435817805383,
+    "test_precision_macro": 0.9330065359477123,
+    "test_recall_macro": 0.8518518518518517,
+    "test_kappa": 0.8571428571428572,
+    "avg_epoch_time_sec": 5.417760801315308,
+    "total_train_time_sec": 302.2685489654541,
+    "img_size": 512,
+    "batch_size": 32
+}
