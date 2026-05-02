@@ -1,5 +1,18 @@
 # 🫀 ECG Görüntülerinin Derin Öğrenme ile Sınıflandırılması
 
+![Field](https://img.shields.io/badge/Field-Deep%20Learning-blue)
+![Task](https://img.shields.io/badge/Task-Image%20Classification-orange)
+![Framework](https://img.shields.io/badge/Framework-TensorFlow%20Keras-red)
+![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20OpenCV%20%7C%20Scikit--Learn-informational)
+![Models](https://img.shields.io/badge/Models-CNN%20%7C%20Transfer%20Learning-green)
+![Evaluation](https://img.shields.io/badge/Metrics-ROC%20AUC%20%7C%20F1--Score-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
+## 📌 Proje Hakkında
+
 Bu çalışmada, ECG (Elektrokardiyogram) görüntülerinin derin öğrenme ve transfer öğrenme yöntemleri kullanılarak sınıflandırılması amaçlanmıştır. Proje kapsamında farklı CNN tabanlı mimariler ve hibrit modeller eğitilmiş, performansları karşılaştırılmış ve sonuçlar detaylı olarak analiz edilmiştir.
 
 ---
@@ -146,7 +159,6 @@ Bu çalışma, ECG görüntülerinin derin öğrenme ve transfer öğrenme model
 ## 👨‍💻 Geliştirici
 
 Emir Safa KAYMAKÇI  
-Atatürk Üniversitesi – Bilgisayar Mühendisliği  
 
 ---
 
